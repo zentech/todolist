@@ -1,3 +1,10 @@
+/*
+ name: todolist
+ purpose: keep a list of todo item
+ version: 1.0
+ author: George Louis
+ date: 3/12/2018
+*/
 window.onload = function() {
 	//variables
 	var form = document.getElementById("form");
